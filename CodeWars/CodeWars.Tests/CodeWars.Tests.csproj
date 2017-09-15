@@ -51,6 +51,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+    <Compile Include="PalindromeChainLengthTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CodeWars\CodeWars.csproj">
