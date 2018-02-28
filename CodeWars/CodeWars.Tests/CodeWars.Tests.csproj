@@ -48,6 +48,7 @@
     <Compile Include="ChessBoardTests.cs" />
     <Compile Include="ExesAndOhsTests.cs" />
     <Compile Include="BuildASquareTests.cs" />
+    <Compile Include="PlayingWithPassphrasesTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

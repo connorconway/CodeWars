@@ -44,6 +44,7 @@
     <Compile Include="ExesAndOhs.cs" />
     <Compile Include="BuildASquare.cs" />
     <Compile Include="PalindromeChainLength.cs" />
+    <Compile Include="PlayingWithPassphrases.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

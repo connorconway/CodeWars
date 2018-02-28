@@ -2,6 +2,7 @@
 
 namespace CodeWars.Tests
 {
+	[TestFixture]
 	public class ChessBoardTests
 	{
 		[Test]
